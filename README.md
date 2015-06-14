@@ -10,3 +10,5 @@ With the Image Loader, you can specify:
 3. what to happen after finish the loading of the images
 
 You can get the value of percentage of progress during the loading, and show the value in any format you like.
+
+You can find example here: [example](http://121.41.24.177/ameng/allen/ImageLoader/example.html)
