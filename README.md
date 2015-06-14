@@ -11,4 +11,4 @@ With the Image Loader, you can specify:
 
 You can get the value of percentage of progress during the loading, and show the value in any format you like.
 
-You can find example here: [example](http://121.41.24.177/ameng/allen/ImageLoader/example.html)
+You can find an example here: [example](http://121.41.24.177/ameng/allen/ImageLoader/example.html)
