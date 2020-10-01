@@ -1,4 +1,4 @@
-## Image Loader ##
+## Image Loader ## - Amazing image loader
 
 Introduction: 
 
